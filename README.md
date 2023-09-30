@@ -6,7 +6,7 @@
 
 An open-source project for predicting the success of startups using machine learning techniques.
 
-![Startup Image](https://example.com/your-image-url.png)
+![Startup Image](https://qph.fs.quoracdn.net/main-qimg-2f5a3c2b414be2553b8c85e340fdc604)
 
 ## Table of Contents
 
